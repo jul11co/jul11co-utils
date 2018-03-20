@@ -1,0 +1,12 @@
+{
+  "name": "jul11co-utils",
+  "version": "0.1.1",
+  "description": "Jul11Co Node Utils",
+  "author": "Jul11Co <jul.eleven.co@gmail.com>",
+  "repository": "https://github.com/jul11co/jul11co-utils",
+  "main": "./utils.js",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "mkdirp": "^0.5.1"
+  }
+}
